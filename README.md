@@ -42,5 +42,5 @@
  ![image](https://user-images.githubusercontent.com/64944011/99029840-e0c1b980-25b6-11eb-840f-4594ea580113.png)
 ![image](https://user-images.githubusercontent.com/64944011/99029852-e7e8c780-25b6-11eb-82fc-ddc66ba43c7b.png)
 # 自己評価入力画面の例 
-![image](https://user-images.githubusercontent.com/64944011/99031210-dd7bfd00-25b9-11eb-81ac-3afaa3eea801.png)
+![image](https://user-images.githubusercontent.com/64944011/99031311-216f0200-25ba-11eb-9ca1-0b65b89db9da.png)
 ![image](https://user-images.githubusercontent.com/64944011/99031063-78c0a280-25b9-11eb-9398-98ff131563f7.png)
