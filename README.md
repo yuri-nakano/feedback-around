@@ -39,4 +39,5 @@
   |   |   |  【入力期間中のみ】 フィードバックを登録・編集ができる |
   
 # ランク設定画面の例スクリーンショット 
- 
+ ![image](https://user-images.githubusercontent.com/64944011/99029840-e0c1b980-25b6-11eb-840f-4594ea580113.png)
+![image](https://user-images.githubusercontent.com/64944011/99029852-e7e8c780-25b6-11eb-82fc-ddc66ba43c7b.png)
