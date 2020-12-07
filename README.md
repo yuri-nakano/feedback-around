@@ -1,7 +1,9 @@
+
 # feedback around
 社内でのプレゼンテーションの評価をし合うためのアプリケーションです。
 
-# 機能一覧
+# DEMO
+ ## 機能一覧
   | 画面を開ける人  | 画面名 | 機能概要 |
   | ------------- | ------------- | ------------- |
   | 全員  | 共通レイアウト  |  ログイン状態を確認できる |
@@ -37,9 +39,43 @@
   |   |   | 入力したフィードバックが一覧で見れる  |
   |   |   |  【入力期間中のみ】 フィードバックを登録・編集ができる |
   
-# ランク設定画面の例 
+# 画面キャプチャ
+
+## ランク設定画面の例 
  ![image](https://user-images.githubusercontent.com/64944011/99029840-e0c1b980-25b6-11eb-840f-4594ea580113.png)
 ![image](https://user-images.githubusercontent.com/64944011/99029852-e7e8c780-25b6-11eb-82fc-ddc66ba43c7b.png)
-# 自己評価入力画面の例 
+
+## 自己評価入力画面の例 
 ![image](https://user-images.githubusercontent.com/64944011/99031311-216f0200-25ba-11eb-9ca1-0b65b89db9da.png)
 ![image](https://user-images.githubusercontent.com/64944011/99031063-78c0a280-25b9-11eb-9398-98ff131563f7.png)
+
+ 
+# Requirement
+
+* Node.js v12.18.0
+* nuxt/cli v2.14.3
+* Ruby Sass 3.7.4
+
+# Installation
+
+## Node.js
+https://qiita.com/sansaisoba/items/242a8ba95bf70ba179d3
+リンク先の手順で進めていく
+ 
+
+## Sass
+`npm install sass-loader node-sass`
+ 
+# Usage
+ 
+```bash
+git clone https://github.com/yuri-nakano/feedback-around.git
+npm i
+npm run dev
+```
+ 
+# Note
+ 
+ ※修正中の点がいくつかあるので今後もコードが変わる可能性があります。
+ 
+ 
