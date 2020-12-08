@@ -7,8 +7,8 @@
 
 ■開発言語：
 Vue(JavaScript),
-CSS記法: SCSS
-CSSライブラリ：Vuetify
+CSS記法: SCSS,
+CSSライブラリ：Vuetify,
 HTML記法: Pug
 
 ■コード管理： Github
